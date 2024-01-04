@@ -3,5 +3,7 @@ The provided repository includes gene expression analysis of UBR7, a protein tha
 
 # Tools used
 Rstudio
+
 R libraries: GEOquery, ggplot2, tidyverse, dplyr
+
 Data: NCBI GEO (accession number GSE229339 )
