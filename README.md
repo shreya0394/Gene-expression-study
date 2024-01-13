@@ -7,3 +7,6 @@ Rstudio
 R libraries: GEOquery, ggplot2, tidyverse, dplyr
 
 Data: NCBI GEO (accession number GSE229339 )
+
+# Author
+Shreya Patil
